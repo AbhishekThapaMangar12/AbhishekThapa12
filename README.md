@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhishekThapa12 (Abhishek Thapa)
-- 👀 I’m interested in Data Analytics & Product Design
+- 👀 Passionate about Analytics & obsessed with good design.
 - 🌱 I’m currently learning anything that interests me. (Got no roadmap or plan here)
 - 💞️ I’m looking to collaborate on challenging & interesting projects.
 - 📫 How to reach me : (+91) 74787-13237 , thapa.abhishek_12@outlook.com
