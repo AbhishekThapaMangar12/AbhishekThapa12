@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhishekThapa12 (Abhishek Thapa)
-- 👀 Passionate about Analytics & obsessed with good design.
-- 🌱 I’m currently learning anything that interests me. (Got no roadmap or plan here)
-- 💞️ I’m looking to collaborate on challenging & interesting projects.
+- 👀 Working as a Data Engineer in LTI, Bengaluru. 
+- 🌱 Have +1 years of experience building Data Warehousing & Business Intelligence Solutions for different teams. 
+- 💞️ Knowledge & Skills : SQL (SQL Server / MySQL), SSIS (ETL tool), Python, Power BI, Jupyter Notebook/Google Colab , Machine Learning.
 - 📫 How to reach me : (+91) 74787-13237 , thapa.abhishek_12@outlook.com
 
 <!---
