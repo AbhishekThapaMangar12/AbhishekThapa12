@@ -6,11 +6,11 @@
 - Passsionate Data Folk with over +1 years of experience, designing and building Data Warehouses, ETL & Business Intelligence Solutions 
 - Spend most of my office hours hearing data related issues of my team & rest of the the hours solving them :sweat_smile:
 - Loves Travelling :camping: , Football :soccer:  & Music :headphones:
+- Like to read about Products, Analytics and Artificial Intelligence.
 
 ## :bell: Status :
 
-- Like to read about Products, Analytics and Artificial Intelligence.
-- Currently learning Machine Learning and exploring various domains like Time Series Forecasting, Natural Language Processing etc.  
+- Currently learning Machine Learning and exploring various domains like Time Series Analysis & Forecasting, Natural Language Processing  etc.  
 - Looking to transition into a role where I can apply my Machine Learning & Analytics knowledge to solve real world problems.
 
 ## :key: Skills & Expertise :
