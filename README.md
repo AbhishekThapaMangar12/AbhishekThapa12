@@ -26,6 +26,7 @@
 - Data Warehousing & Business-Intelligence
 - Data Modeling
 - ETL (Extract, Transform & Load)
+- Apache Hadoop (Hive) 
 
 ## :phone: Contact Details : (To reach me)
 
