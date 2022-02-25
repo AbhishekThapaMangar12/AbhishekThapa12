@@ -10,7 +10,8 @@
 
 ## :bell: Status :
 
-- Currently learning Machine Learning and exploring various domains like Time Series Analysis & Forecasting, Natural Language Processing  etc.  
+- Currently working as a Data Engineer @ Larsen & Toubro Infotech, as part of our partner (o9) Data Integration Team.
+- Learning Machine Learning and exploring various domains like Time Series Analysis & Forecasting, Natural Language Processing  etc.  
 - Looking to transition into a role where I can apply my Machine Learning & Analytics knowledge to solve real world problems.
 
 ## :key: Skills & Expertise :
