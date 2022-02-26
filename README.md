@@ -3,8 +3,8 @@
 
 ## :camera: About Me : 
 
-- Passsionate Data Folk with over +1 years of experience, designing and building Data Warehouses, ETL & Business Intelligence Solutions 
-- Spend most of my office hours hearing data related issues of my team & rest of the the hours solving them :sweat_smile:
+- Passsionate Data Folk with over +1 years of experience, designing and building Data Warehouses, ETL & Business Intelligence Solutions for Supply Planning & Assortment / Merchandise Planning projects.
+- Honest version - Spend most of my office hours hearing data related issues of my team & rest of the the hours solving them :sweat_smile:
 - Loves Travelling :camping: , Football :soccer:  & Music :headphones:
 - Like to read about Products, Analytics and Artificial Intelligence.
 
