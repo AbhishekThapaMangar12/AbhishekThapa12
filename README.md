@@ -14,20 +14,6 @@
 - Learning Machine Learning and exploring various domains like Time Series Analysis & Forecasting, Natural Language Processing  etc.  
 - Looking to transition into a role more focused towards Analytics & Machine Learning, where I can apply my knowledge to solve real world problems.
 
-## :key: Skills & Expertise :
-
-- SQL & Relational Databases  
-- Python & it's Libraries (Pandas, ScikitLearn, NumPy , Seaborn , Matplotlib etc )
-- Power BI
-- Data Analysis
-- Statistics
-- Machine Learning 
-- Natural Language Processing
-- Data Warehousing & Business-Intelligence
-- Data Modeling
-- ETL (Extract, Transform & Load)
-- Apache Hadoop & Hive (Querying tool)
-
 ## :phone: Contact Details : (To reach me)
 
 - :iphone: Give me a call at -> +91 7478713237
