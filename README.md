@@ -3,9 +3,7 @@
 
 ## :camera: About Me : 
 
-- Data Engineer with over 1.5 years of experience in the IT and Consulting Industry. 
-- Primarily worked on designing & building enterprise-level Data Warehousing & ETL solutions for the company leveraging technologies like SQL, SSIS, Python & Hadoop.
-- Simply said, I spend most of my office hours hearing data related issues of my team & rest of the the hours solving them :sweat_smile:
+- Data Analyst with over + 1.5 years of experience working in the Analytics Industry. 
 - Loves Travelling :camping: , Football :soccer:  & Music :headphones:
 
 ## :phone: Contact Details : (To reach me)
